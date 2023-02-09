@@ -60,5 +60,8 @@ Setelah customer selesai berbelanja, menghitung total belanja yang harus dibayar
 ![test4_b](https://user-images.githubusercontent.com/122892945/215353800-4a0a0912-d9e2-48b5-a08c-f52be887b6ea.png)
 ![test4_c](https://user-images.githubusercontent.com/122892945/215354133-7ecd5f8b-5ab7-4e92-82d0-942d095a46d7.png)
 
+# YouTube Link
+https://youtu.be/X9xtjzdWSdU
+
 
 
