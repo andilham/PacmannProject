@@ -21,14 +21,20 @@ Jadi langsung jalankan saja module main.py nya agar program nya berjalan seperti
 
 # Flowchart
 Berikut flowchart aplikasi kasir sederhana, ini saya pisah flowchartnya per kondisi yang mungkin dilakukan oleh user tersebut
+
+flow normal
 ![appflowchart-flow-normal](https://user-images.githubusercontent.com/122892945/217691469-9c5e7331-4fee-408b-8731-5395b3177356.jpg)
 
+flow normal & cek
 ![appflowchart-flow-cek](https://user-images.githubusercontent.com/122892945/217691502-68bcd1a3-57ce-4143-bb15-a5b341cb1e2c.jpg)
 
+flow delete
 ![appflowchart-flow-delete](https://user-images.githubusercontent.com/122892945/217691531-11b5056d-cd04-4d79-9d78-a3acf91061ba.jpg)
 
+flow delete-all
 ![appflowchart-flow-delete-all](https://user-images.githubusercontent.com/122892945/217691562-dbc3e506-593f-41bc-a4ca-0b0e7e930e65.jpg)
 
+flow update
 ![appflowchart-flow-update](https://user-images.githubusercontent.com/122892945/217691591-d2b035a7-5b4f-4f0a-ae55-7524293a64ae.jpg)
 
 # Hasil Test Case
