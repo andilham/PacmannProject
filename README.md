@@ -1,5 +1,6 @@
 # PacmannProject
 Aplikasi kasir sederhana dengan menggunakan bahasa pemrograman Python tanpa terhubung dengan database.
+
 # Tujuan Pengerjaan Project
   1. Membuat aplikasi kasir sederhana yang dapat melakukan tugas:
    - Menambah item barang yang ingin dibeli.
@@ -10,12 +11,26 @@ Aplikasi kasir sederhana dengan menggunakan bahasa pemrograman Python tanpa terh
   2. Membuat program dengan bahasa pemrograman Python yang belum terhubung ke database.
   3. Mengaplikasikan pembuatan program yang berbasis fungsi (function) atau objek (OOP).
   4. Mengaplikasikan penulisan kode yang bersih (clean code).
+  
 # Deskripsi Task
 Disini kebetulan saya hanya menggunakan 1 module, yaitu main.py yang berfungsi untuk menjalankan program nya.
 
 ![image](https://user-images.githubusercontent.com/122892945/215348496-fcf00edb-a0d3-42ce-923d-204f0e7b09e4.png)
 
 Jadi langsung jalankan saja module main.py nya agar program nya berjalan seperti screen capture diatas.
+
+# Flowchart
+Berikut flowchart aplikasi kasir sederhana, ini saya pisah flowchartnya per kondisi yang mungkin dilakukan oleh user tersebut
+![appflowchart-flow-normal](https://user-images.githubusercontent.com/122892945/217691469-9c5e7331-4fee-408b-8731-5395b3177356.jpg)
+
+![appflowchart-flow-cek](https://user-images.githubusercontent.com/122892945/217691502-68bcd1a3-57ce-4143-bb15-a5b341cb1e2c.jpg)
+
+![appflowchart-flow-delete](https://user-images.githubusercontent.com/122892945/217691531-11b5056d-cd04-4d79-9d78-a3acf91061ba.jpg)
+
+![appflowchart-flow-delete-all](https://user-images.githubusercontent.com/122892945/217691562-dbc3e506-593f-41bc-a4ca-0b0e7e930e65.jpg)
+
+![appflowchart-flow-update](https://user-images.githubusercontent.com/122892945/217691591-d2b035a7-5b4f-4f0a-ae55-7524293a64ae.jpg)
+
 # Hasil Test Case
 Test 1 :
 Customer ingin menambahkan 2 item baru
